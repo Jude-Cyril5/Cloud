@@ -16,7 +16,7 @@ rum =0
 sum =[]
 rum =[]
 for j in range (b):
-    sum =
+    sum = sndfpasindf
     
 
 
